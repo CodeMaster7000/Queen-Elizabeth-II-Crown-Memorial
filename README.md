@@ -12,4 +12,6 @@ Run `python3 HM Crown Memorial.py` in a terminal if you have Python 3.
 
 <img width="320" alt="Queen Elizabeth II's death" src="https://user-images.githubusercontent.com/68993968/190714249-698ddbf2-f4d0-4f5d-b44e-950f08e86eaa.png">
 
-RIP Queen Elizabeth II. Long Live King Charles III!
+RIP Queen Elizabeth II. 
+
+Long Live King Charles III!
